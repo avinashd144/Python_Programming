@@ -8,21 +8,4 @@ __pycache__/
 # Ignore Jupyter Notebook hidden files
 .~*.ipynb
 
-# Ignore virtual environments
-venv/
-env/
-.env/
 
-# Ignore OS-specific files
-.DS_Store
-Thumbs.db
-
-# Ignore IDE/editor config files
-.vscode/
-.idea/
-
-# Ignore logs
-*.log
-
-# Ignore environment files (optional)
-*.env
